@@ -1,0 +1,9 @@
+@startuml
+skinparam component {
+  BackgroundColor #FFFFFF
+  BorderColor #000000
+}
+
+component "Database" as DB
+component "Web Server" as WS
+@enduml

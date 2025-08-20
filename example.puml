@@ -1,0 +1,15 @@
+@startuml
+!include /common/common.puml
+
+' 여기에 다이어그램 내용을 작성합니다.
+' 예시:
+User(user, "사용자")
+System(shms, "스마트홈 전기관리 시스템")
+ExtSystem(power, "전력 공급사")
+Db(usageDB, "전력 사용량 DB")
+
+user --> shms : 전력 사용량 조회
+shms -> usageDB : 데이터 요청
+shms <-- power : 요금 정보 수신
+
+@enduml

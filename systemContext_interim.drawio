@@ -95,7 +95,7 @@
         <mxCell id="iD-A8TtcfbhBeS0kD-Tq-67" value="supplierInterface" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="470" y="454" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iD-A8TtcfbhBeS0kD-Tq-76" value="&lt;div&gt;&lt;span style=&quot;font-size:10.0pt;mso-bidi-font-size:12.0pt;&lt;br/&gt;font-family:&amp;quot;HY신명조&amp;quot;,serif;mso-hansi-font-family:바탕;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:KO;&lt;br/&gt;mso-bidi-language:AR-SA&quot;&gt;100,000명&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13.3333px;&quot;&gt;시스템 런칭 초기 예상 가입자&lt;/span&gt;&lt;/div&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;" parent="1" vertex="1">
+        <mxCell id="iD-A8TtcfbhBeS0kD-Tq-76" value="&lt;span style=&quot;font-size: 13.3333px;&quot;&gt;5명&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13.3333px;&quot;&gt;시스템 연결 된 사용자를 5명으로&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13.3333px;&quot;&gt;가정&lt;/span&gt;&lt;/div&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;" parent="1" vertex="1">
           <mxGeometry x="80" y="424" width="200" height="86" as="geometry" />
         </mxCell>
         <mxCell id="iD-A8TtcfbhBeS0kD-Tq-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.439;entryY=0.993;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;dashed=1;" parent="1" source="iD-A8TtcfbhBeS0kD-Tq-76" target="iD-A8TtcfbhBeS0kD-Tq-21" edge="1">
@@ -117,8 +117,8 @@
             <mxPoint x="720" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1AKA_FO3HEyKGd7aFu5U-3" value="100개" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=15;verticalAlign=top;align=left;" parent="1" vertex="1">
-          <mxGeometry x="820" y="424" width="90" height="56" as="geometry" />
+        <mxCell id="1AKA_FO3HEyKGd7aFu5U-3" value="100개&lt;div&gt;스펙에 따라 최대 100개 동시 연결을 지원한다&lt;/div&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=15;verticalAlign=top;align=left;" parent="1" vertex="1">
+          <mxGeometry x="820" y="424" width="150" height="76" as="geometry" />
         </mxCell>
         <mxCell id="1AKA_FO3HEyKGd7aFu5U-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=17.5;exitDy=0;endArrow=none;endFill=0;dashed=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="1AKA_FO3HEyKGd7aFu5U-3" target="iD-A8TtcfbhBeS0kD-Tq-23" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -185,6 +185,9 @@
         </mxCell>
         <mxCell id="4d4zeJCJbdyDPjrFUUaZ-24" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="4d4zeJCJbdyDPjrFUUaZ-15" target="4d4zeJCJbdyDPjrFUUaZ-23">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4d4zeJCJbdyDPjrFUUaZ-28" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="1">
+          <mxGeometry x="373" y="338.5" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

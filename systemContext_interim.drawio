@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Whale/4.33.325.17 Safari/537.36" version="28.1.0">
   <diagram name="페이지-1" id="r8mCSnYucxKKDC4mQy1r">
-    <mxGraphModel dx="1146" dy="1305" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="865" dy="1305" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -95,12 +95,6 @@
         <mxCell id="iD-A8TtcfbhBeS0kD-Tq-67" value="supplierInterface" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="470" y="454" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iD-A8TtcfbhBeS0kD-Tq-76" value="&lt;span style=&quot;font-size: 13.3333px;&quot;&gt;5명&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13.3333px;&quot;&gt;시스템 연결 된 사용자를 5명으로&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13.3333px;&quot;&gt;가정&lt;/span&gt;&lt;/div&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;" parent="1" vertex="1">
-          <mxGeometry x="80" y="424" width="200" height="86" as="geometry" />
-        </mxCell>
-        <mxCell id="iD-A8TtcfbhBeS0kD-Tq-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.439;entryY=0.993;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;dashed=1;" parent="1" source="iD-A8TtcfbhBeS0kD-Tq-76" target="iD-A8TtcfbhBeS0kD-Tq-21" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="iD-A8TtcfbhBeS0kD-Tq-78" value="1개" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=15;verticalAlign=top;align=center;" parent="1" vertex="1">
           <mxGeometry x="455" y="690" width="50" height="60" as="geometry" />
         </mxCell>
@@ -188,6 +182,12 @@
         </mxCell>
         <mxCell id="4d4zeJCJbdyDPjrFUUaZ-28" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="1">
           <mxGeometry x="373" y="338.5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4d4zeJCJbdyDPjrFUUaZ-36" value="&lt;span style=&quot;font-size: 13.3333px;&quot;&gt;5명 / 30만명&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13.3333px;&quot;&gt;- 시스템에 연결된 가구 당 사용자를 5명으로&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 13.3333px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;가정&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13.3333px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- 클라우드를 통해 연결된 전체 사용자를&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 13.3333px;&quot;&gt;30만명으로 가정&lt;/span&gt;&lt;/div&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="63" y="170" width="327" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="4d4zeJCJbdyDPjrFUUaZ-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="1" source="iD-A8TtcfbhBeS0kD-Tq-21" target="4d4zeJCJbdyDPjrFUUaZ-36">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

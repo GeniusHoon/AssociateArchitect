@@ -1,9 +1,48 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Whale/4.33.325.17 Safari/537.36" version="28.1.1">
   <diagram name="페이지-1" id="8YTJVPFshJAHq5woD0wn">
-    <mxGraphModel>
+    <mxGraphModel dx="1361" dy="1143" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="vxFuanLwJdvkJMf5H4uR-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1730" width="610" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="vxFuanLwJdvkJMf5H4uR-2" value="&amp;laquo;interface&amp;raquo;&lt;br&gt;&lt;b&gt;Name&lt;/b&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="410" y="680" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vxFuanLwJdvkJMf5H4uR-3" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="550" y="680" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vxFuanLwJdvkJMf5H4uR-4" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="460" y="630" as="sourcePoint" />
+            <mxPoint x="620" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vxFuanLwJdvkJMf5H4uR-5" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="690" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vxFuanLwJdvkJMf5H4uR-7" value="«boundary»&lt;br&gt;&lt;div&gt;:UserInterface&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="390" y="950" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vxFuanLwJdvkJMf5H4uR-10" value="«control»&lt;br&gt;&lt;div&gt;:PredictionController&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="520" y="950" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vxFuanLwJdvkJMf5H4uR-11" value="«control»&lt;br&gt;&lt;div&gt;:DataManager&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="520" y="880" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vxFuanLwJdvkJMf5H4uR-12" value="«application logic»&lt;br&gt;&lt;div&gt;:PredictionModel&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="660" y="880" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vxFuanLwJdvkJMf5H4uR-13" value="«application logic»&lt;br&gt;&lt;div&gt;:OptimizationEngine&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="660" y="950" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vxFuanLwJdvkJMf5H4uR-14" value="«boundary»&lt;br&gt;&lt;div&gt;:PowerCompanyInterface&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="390" y="880" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vxFuanLwJdvkJMf5H4uR-16" value="사용자" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="1090" width="30" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

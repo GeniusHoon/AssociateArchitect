@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Whale/4.33.325.17 Safari/537.36" version="28.1.0" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Whale/4.33.325.17 Safari/537.36" version="28.1.1" pages="2">
   <diagram name="Gateway" id="r8mCSnYucxKKDC4mQy1r">
     <mxGraphModel dx="858" dy="1109" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -191,136 +191,136 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Cloud" id="IwpH3WWKPjul7UW3nA3K">
-    <mxGraphModel dx="1083" dy="1232" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="597" dy="1143" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="T0lSkXVHAn0yZM9O7sEg-0" />
         <mxCell id="T0lSkXVHAn0yZM9O7sEg-1" parent="T0lSkXVHAn0yZM9O7sEg-0" />
-        <mxCell id="T0lSkXVHAn0yZM9O7sEg-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="T0lSkXVHAn0yZM9O7sEg-1" source="T0lSkXVHAn0yZM9O7sEg-3" target="T0lSkXVHAn0yZM9O7sEg-51">
+        <mxCell id="T0lSkXVHAn0yZM9O7sEg-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;dashed=1;" parent="T0lSkXVHAn0yZM9O7sEg-1" source="T0lSkXVHAn0yZM9O7sEg-3" target="T0lSkXVHAn0yZM9O7sEg-51" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="T0lSkXVHAn0yZM9O7sEg-3" value="«user»&lt;br&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;사용자&lt;/font&gt;&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="T0lSkXVHAn0yZM9O7sEg-1">
+        <mxCell id="T0lSkXVHAn0yZM9O7sEg-3" value="«user»&lt;br&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;사용자&lt;/font&gt;&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" parent="T0lSkXVHAn0yZM9O7sEg-1" vertex="1">
           <mxGeometry x="80" y="310" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="T0lSkXVHAn0yZM9O7sEg-4" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="T0lSkXVHAn0yZM9O7sEg-3">
+        <mxCell id="T0lSkXVHAn0yZM9O7sEg-4" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="T0lSkXVHAn0yZM9O7sEg-3" vertex="1">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="T0lSkXVHAn0yZM9O7sEg-7" value="«system»&lt;br&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;스마트홈 전기관리 시스템&lt;/b&gt;&lt;/span&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="T0lSkXVHAn0yZM9O7sEg-1">
+        <mxCell id="T0lSkXVHAn0yZM9O7sEg-7" value="«system»&lt;br&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;스마트홈 전기관리 시스템&lt;/b&gt;&lt;/span&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" parent="T0lSkXVHAn0yZM9O7sEg-1" vertex="1">
           <mxGeometry x="370" y="310" width="220" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="T0lSkXVHAn0yZM9O7sEg-8" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="T0lSkXVHAn0yZM9O7sEg-7">
+        <mxCell id="T0lSkXVHAn0yZM9O7sEg-8" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="T0lSkXVHAn0yZM9O7sEg-7" vertex="1">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="T0lSkXVHAn0yZM9O7sEg-9" value="«external system»&lt;br&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;전력공급사&lt;/font&gt;&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="T0lSkXVHAn0yZM9O7sEg-1">
+        <mxCell id="T0lSkXVHAn0yZM9O7sEg-9" value="«external system»&lt;br&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;전력공급사&lt;/font&gt;&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" parent="T0lSkXVHAn0yZM9O7sEg-1" vertex="1">
           <mxGeometry x="390" y="550" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="T0lSkXVHAn0yZM9O7sEg-10" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="T0lSkXVHAn0yZM9O7sEg-9">
+        <mxCell id="T0lSkXVHAn0yZM9O7sEg-10" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="T0lSkXVHAn0yZM9O7sEg-9" vertex="1">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="T0lSkXVHAn0yZM9O7sEg-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="T0lSkXVHAn0yZM9O7sEg-1" source="T0lSkXVHAn0yZM9O7sEg-16" target="T0lSkXVHAn0yZM9O7sEg-7">
+        <mxCell id="T0lSkXVHAn0yZM9O7sEg-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="T0lSkXVHAn0yZM9O7sEg-1" source="T0lSkXVHAn0yZM9O7sEg-16" target="T0lSkXVHAn0yZM9O7sEg-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="T0lSkXVHAn0yZM9O7sEg-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="T0lSkXVHAn0yZM9O7sEg-1" source="T0lSkXVHAn0yZM9O7sEg-16" target="T0lSkXVHAn0yZM9O7sEg-3">
+        <mxCell id="T0lSkXVHAn0yZM9O7sEg-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="T0lSkXVHAn0yZM9O7sEg-1" source="T0lSkXVHAn0yZM9O7sEg-16" target="T0lSkXVHAn0yZM9O7sEg-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="T0lSkXVHAn0yZM9O7sEg-16" value="" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;rotation=-180;" vertex="1" parent="T0lSkXVHAn0yZM9O7sEg-1">
+        <mxCell id="T0lSkXVHAn0yZM9O7sEg-16" value="" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;rotation=-180;" parent="T0lSkXVHAn0yZM9O7sEg-1" vertex="1">
           <mxGeometry x="310" y="345" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="T0lSkXVHAn0yZM9O7sEg-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="T0lSkXVHAn0yZM9O7sEg-1" source="T0lSkXVHAn0yZM9O7sEg-25" target="T0lSkXVHAn0yZM9O7sEg-7">
+        <mxCell id="T0lSkXVHAn0yZM9O7sEg-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="T0lSkXVHAn0yZM9O7sEg-1" source="T0lSkXVHAn0yZM9O7sEg-25" target="T0lSkXVHAn0yZM9O7sEg-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="T0lSkXVHAn0yZM9O7sEg-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="T0lSkXVHAn0yZM9O7sEg-1" source="T0lSkXVHAn0yZM9O7sEg-25" target="T0lSkXVHAn0yZM9O7sEg-9">
+        <mxCell id="T0lSkXVHAn0yZM9O7sEg-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="T0lSkXVHAn0yZM9O7sEg-1" source="T0lSkXVHAn0yZM9O7sEg-25" target="T0lSkXVHAn0yZM9O7sEg-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="T0lSkXVHAn0yZM9O7sEg-25" value="" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;rotation=-90;" vertex="1" parent="T0lSkXVHAn0yZM9O7sEg-1">
+        <mxCell id="T0lSkXVHAn0yZM9O7sEg-25" value="" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;rotation=-90;" parent="T0lSkXVHAn0yZM9O7sEg-1" vertex="1">
           <mxGeometry x="470" y="444" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="T0lSkXVHAn0yZM9O7sEg-26" value="customerInterface" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="T0lSkXVHAn0yZM9O7sEg-1">
+        <mxCell id="T0lSkXVHAn0yZM9O7sEg-26" value="customerInterface" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="T0lSkXVHAn0yZM9O7sEg-1" vertex="1">
           <mxGeometry x="260" y="362" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="T0lSkXVHAn0yZM9O7sEg-29" value="supplierInterface" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="T0lSkXVHAn0yZM9O7sEg-1">
+        <mxCell id="T0lSkXVHAn0yZM9O7sEg-29" value="supplierInterface" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="T0lSkXVHAn0yZM9O7sEg-1" vertex="1">
           <mxGeometry x="470" y="454" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="T0lSkXVHAn0yZM9O7sEg-30" value="1개" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=15;verticalAlign=top;align=center;" vertex="1" parent="T0lSkXVHAn0yZM9O7sEg-1">
+        <mxCell id="T0lSkXVHAn0yZM9O7sEg-30" value="1개" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=15;verticalAlign=top;align=center;" parent="T0lSkXVHAn0yZM9O7sEg-1" vertex="1">
           <mxGeometry x="455" y="690" width="50" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="T0lSkXVHAn0yZM9O7sEg-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;dashed=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="T0lSkXVHAn0yZM9O7sEg-1" source="T0lSkXVHAn0yZM9O7sEg-30" target="T0lSkXVHAn0yZM9O7sEg-9">
+        <mxCell id="T0lSkXVHAn0yZM9O7sEg-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;dashed=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="T0lSkXVHAn0yZM9O7sEg-1" source="T0lSkXVHAn0yZM9O7sEg-30" target="T0lSkXVHAn0yZM9O7sEg-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="480" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="T0lSkXVHAn0yZM9O7sEg-35" value="«external system»&lt;br&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;홈 게이트웨이 시스템&lt;/b&gt;&lt;/span&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="T0lSkXVHAn0yZM9O7sEg-1">
+        <mxCell id="T0lSkXVHAn0yZM9O7sEg-35" value="«external system»&lt;br&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;홈 게이트웨이 시스템&lt;/b&gt;&lt;/span&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" parent="T0lSkXVHAn0yZM9O7sEg-1" vertex="1">
           <mxGeometry x="740" y="310" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="T0lSkXVHAn0yZM9O7sEg-36" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="T0lSkXVHAn0yZM9O7sEg-35">
+        <mxCell id="T0lSkXVHAn0yZM9O7sEg-36" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="T0lSkXVHAn0yZM9O7sEg-35" vertex="1">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="T0lSkXVHAn0yZM9O7sEg-37" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="T0lSkXVHAn0yZM9O7sEg-1" source="GLKFVSABkaWEZZNUtotz-0" target="T0lSkXVHAn0yZM9O7sEg-7">
+        <mxCell id="T0lSkXVHAn0yZM9O7sEg-37" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="T0lSkXVHAn0yZM9O7sEg-1" source="GLKFVSABkaWEZZNUtotz-0" target="T0lSkXVHAn0yZM9O7sEg-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="370" y="400" as="targetPoint" />
             <mxPoint x="655" y="346" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="T0lSkXVHAn0yZM9O7sEg-38" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="T0lSkXVHAn0yZM9O7sEg-1" source="GLKFVSABkaWEZZNUtotz-0" target="T0lSkXVHAn0yZM9O7sEg-35">
+        <mxCell id="T0lSkXVHAn0yZM9O7sEg-38" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="T0lSkXVHAn0yZM9O7sEg-1" source="GLKFVSABkaWEZZNUtotz-0" target="T0lSkXVHAn0yZM9O7sEg-35" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="900" y="301" as="targetPoint" />
             <mxPoint x="645" y="363.6602540378442" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="T0lSkXVHAn0yZM9O7sEg-40" value="gatewayInterface" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="T0lSkXVHAn0yZM9O7sEg-1">
+        <mxCell id="T0lSkXVHAn0yZM9O7sEg-40" value="gatewayInterface" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="T0lSkXVHAn0yZM9O7sEg-1" vertex="1">
           <mxGeometry x="615" y="315" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="T0lSkXVHAn0yZM9O7sEg-41" value="15만개&lt;div&gt;가구당 평균 인원 2.3명, 사용자 30만명 일 때&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;홈 게이트웨이 약 15만개 가정&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;홈 게이트웨이 하나에&lt;/div&gt;&lt;div&gt;스마트미터 1개, 가전기기 100개 연결되어있음.&lt;/div&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=15;verticalAlign=top;align=left;" vertex="1" parent="T0lSkXVHAn0yZM9O7sEg-1">
+        <mxCell id="T0lSkXVHAn0yZM9O7sEg-41" value="15만개&lt;div&gt;가구당 평균 인원 2.3명, 사용자 30만명 일 때&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;홈 게이트웨이 약 15만개 가정&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;홈 게이트웨이 하나에&lt;/div&gt;&lt;div&gt;스마트미터 1개, 가전기기 100개 연결되어있음.&lt;/div&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=15;verticalAlign=top;align=left;" parent="T0lSkXVHAn0yZM9O7sEg-1" vertex="1">
           <mxGeometry x="660" y="444" width="250" height="136" as="geometry" />
         </mxCell>
-        <mxCell id="T0lSkXVHAn0yZM9O7sEg-42" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;dashed=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="T0lSkXVHAn0yZM9O7sEg-1" source="T0lSkXVHAn0yZM9O7sEg-41" target="T0lSkXVHAn0yZM9O7sEg-35">
+        <mxCell id="T0lSkXVHAn0yZM9O7sEg-42" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;dashed=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="T0lSkXVHAn0yZM9O7sEg-1" source="T0lSkXVHAn0yZM9O7sEg-41" target="T0lSkXVHAn0yZM9O7sEg-35" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="815" y="393" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="T0lSkXVHAn0yZM9O7sEg-43" value="«external system»&lt;br&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;IoT허브&lt;/b&gt;&lt;/span&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="T0lSkXVHAn0yZM9O7sEg-1">
+        <mxCell id="T0lSkXVHAn0yZM9O7sEg-43" value="«external system»&lt;br&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;IoT허브&lt;/b&gt;&lt;/span&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" parent="T0lSkXVHAn0yZM9O7sEg-1" vertex="1">
           <mxGeometry x="230" y="850" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="T0lSkXVHAn0yZM9O7sEg-44" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="T0lSkXVHAn0yZM9O7sEg-43">
+        <mxCell id="T0lSkXVHAn0yZM9O7sEg-44" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="T0lSkXVHAn0yZM9O7sEg-43" vertex="1">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="T0lSkXVHAn0yZM9O7sEg-45" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="T0lSkXVHAn0yZM9O7sEg-1" source="T0lSkXVHAn0yZM9O7sEg-47">
+        <mxCell id="T0lSkXVHAn0yZM9O7sEg-45" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="T0lSkXVHAn0yZM9O7sEg-1" source="T0lSkXVHAn0yZM9O7sEg-47" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="200" y="1050" as="targetPoint" />
             <mxPoint x="200" y="1020" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="T0lSkXVHAn0yZM9O7sEg-46" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="T0lSkXVHAn0yZM9O7sEg-1" source="T0lSkXVHAn0yZM9O7sEg-47" target="T0lSkXVHAn0yZM9O7sEg-43">
+        <mxCell id="T0lSkXVHAn0yZM9O7sEg-46" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="T0lSkXVHAn0yZM9O7sEg-1" source="T0lSkXVHAn0yZM9O7sEg-47" target="T0lSkXVHAn0yZM9O7sEg-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="T0lSkXVHAn0yZM9O7sEg-47" value="" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;rotation=120;" vertex="1" parent="T0lSkXVHAn0yZM9O7sEg-1">
+        <mxCell id="T0lSkXVHAn0yZM9O7sEg-47" value="" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;rotation=120;" parent="T0lSkXVHAn0yZM9O7sEg-1" vertex="1">
           <mxGeometry x="210" y="990" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="T0lSkXVHAn0yZM9O7sEg-48" value="iotHubInterface" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="T0lSkXVHAn0yZM9O7sEg-1">
+        <mxCell id="T0lSkXVHAn0yZM9O7sEg-48" value="iotHubInterface" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="T0lSkXVHAn0yZM9O7sEg-1" vertex="1">
           <mxGeometry x="200" y="1010" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="T0lSkXVHAn0yZM9O7sEg-49" value="3개&lt;div&gt;통신 안전성을 위해 가정 내 3포인트에 위치한다고 가정한다.&lt;/div&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=15;verticalAlign=top;align=left;" vertex="1" parent="T0lSkXVHAn0yZM9O7sEg-1">
+        <mxCell id="T0lSkXVHAn0yZM9O7sEg-49" value="3개&lt;div&gt;통신 안전성을 위해 가정 내 3포인트에 위치한다고 가정한다.&lt;/div&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=15;verticalAlign=top;align=left;" parent="T0lSkXVHAn0yZM9O7sEg-1" vertex="1">
           <mxGeometry x="310" y="961" width="200" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="T0lSkXVHAn0yZM9O7sEg-50" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="T0lSkXVHAn0yZM9O7sEg-1">
+        <mxCell id="T0lSkXVHAn0yZM9O7sEg-50" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="T0lSkXVHAn0yZM9O7sEg-1" vertex="1">
           <mxGeometry x="373" y="338.5" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="T0lSkXVHAn0yZM9O7sEg-51" value="30만명&lt;br&gt;&lt;br&gt;*시스템 사용자 30만명 추산근거 : 국내 IoT 기기 보유자 수 1152만명 중&lt;br&gt;스마트홈 Hub 사용자를 10%로 가정.&lt;br&gt;Hub 사용자가 곧 본 시스템의 고객이 될 것이라는 판단으로&lt;br&gt;115만명 규모 시장의 점유율 25%를 목표로 약 30만명 가정." style="shape=note2;boundedLbl=1;html=1;size=25;verticalAlign=top;align=left;spacing=2;whiteSpace=wrap;spacingBottom=0;fontSize=12;" vertex="1" parent="T0lSkXVHAn0yZM9O7sEg-1">
+        <mxCell id="T0lSkXVHAn0yZM9O7sEg-51" value="30만명&lt;br&gt;&lt;br&gt;*시스템 사용자 30만명 추산근거 : 국내 IoT 기기 보유자 수 1152만명 중&lt;br&gt;스마트홈 Hub 사용자를 10%로 가정.&lt;br&gt;Hub 사용자가 곧 본 시스템의 고객이 될 것이라는 판단으로&lt;br&gt;115만명 규모 시장의 점유율 25%를 목표로 약 30만명 가정." style="shape=note2;boundedLbl=1;html=1;size=25;verticalAlign=top;align=left;spacing=2;whiteSpace=wrap;spacingBottom=0;fontSize=12;" parent="T0lSkXVHAn0yZM9O7sEg-1" vertex="1">
           <mxGeometry x="53" y="120" width="337" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="T0lSkXVHAn0yZM9O7sEg-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="T0lSkXVHAn0yZM9O7sEg-1" source="T0lSkXVHAn0yZM9O7sEg-43" target="T0lSkXVHAn0yZM9O7sEg-49">
+        <mxCell id="T0lSkXVHAn0yZM9O7sEg-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;dashed=1;" parent="T0lSkXVHAn0yZM9O7sEg-1" source="T0lSkXVHAn0yZM9O7sEg-43" target="T0lSkXVHAn0yZM9O7sEg-49" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GLKFVSABkaWEZZNUtotz-0" value="" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;rotation=-180;" vertex="1" parent="T0lSkXVHAn0yZM9O7sEg-1">
+        <mxCell id="GLKFVSABkaWEZZNUtotz-0" value="" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;rotation=-180;" parent="T0lSkXVHAn0yZM9O7sEg-1" vertex="1">
           <mxGeometry x="660" y="345" width="20" height="20" as="geometry" />
         </mxCell>
       </root>

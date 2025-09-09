@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Whale/4.33.325.17 Safari/537.36" version="28.1.2" pages="4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Whale/4.33.325.17 Safari/537.36" version="28.2.0" pages="4">
   <diagram name="DD-01" id="afiPbof423TQoIIdaXvW">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1087" dy="1493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,8 +43,8 @@
         <mxCell id="-PJYMMsur2EDgzpFKRcv-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="-PJYMMsur2EDgzpFKRcv-19" target="-PJYMMsur2EDgzpFKRcv-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-PJYMMsur2EDgzpFKRcv-19" value="Prioritize Events&lt;div&gt;택틱 적용&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="574" y="424" width="120" height="60" as="geometry" />
+        <mxCell id="-PJYMMsur2EDgzpFKRcv-19" value="&lt;div&gt;Introduce Concurrency 기반&lt;/div&gt;Prioritize Events&lt;div&gt;택틱 적용&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="548" y="424" width="172" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-PJYMMsur2EDgzpFKRcv-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="-PJYMMsur2EDgzpFKRcv-20" target="-PJYMMsur2EDgzpFKRcv-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -58,32 +58,32 @@
         <mxCell id="-PJYMMsur2EDgzpFKRcv-21" value="Limit Event Respone&lt;div&gt;택틱 적용&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="649" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ThwVdZloYumvVijTlfHX-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-PJYMMsur2EDgzpFKRcv-22" target="ThwVdZloYumvVijTlfHX-3">
+        <mxCell id="ThwVdZloYumvVijTlfHX-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="-PJYMMsur2EDgzpFKRcv-22" target="ThwVdZloYumvVijTlfHX-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-PJYMMsur2EDgzpFKRcv-22" value="Schedule Resource&lt;div&gt;택틱 적용&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="660" y="649" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ThwVdZloYumvVijTlfHX-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ThwVdZloYumvVijTlfHX-3" target="ThwVdZloYumvVijTlfHX-4">
+        <mxCell id="ThwVdZloYumvVijTlfHX-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ThwVdZloYumvVijTlfHX-3" target="ThwVdZloYumvVijTlfHX-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ThwVdZloYumvVijTlfHX-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ThwVdZloYumvVijTlfHX-3" target="ThwVdZloYumvVijTlfHX-5">
+        <mxCell id="ThwVdZloYumvVijTlfHX-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ThwVdZloYumvVijTlfHX-3" target="ThwVdZloYumvVijTlfHX-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ThwVdZloYumvVijTlfHX-3" value="설계이슈 4&lt;div&gt;단일 장애점 제거 방안&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ThwVdZloYumvVijTlfHX-3" value="설계이슈 4&lt;div&gt;단일 장애점 제거 방안&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="744" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ThwVdZloYumvVijTlfHX-4" value="이중화된 중앙 스케줄러&lt;div&gt;적용&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ThwVdZloYumvVijTlfHX-4" value="이중화된 중앙 스케줄러&lt;div&gt;적용&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="586" y="853" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ThwVdZloYumvVijTlfHX-5" value="분산된 내부 스케줄러&lt;div&gt;적용&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="ThwVdZloYumvVijTlfHX-5" value="분산된 내부 스케줄러&lt;div&gt;적용&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="746" y="853" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="DD-02" id="Dmk5TYKbClKKACq7AATg">
-    <mxGraphModel dx="962" dy="1168" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="761" dy="1045" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="gjezv7H-cEq9Hpv20trl-0" />
         <mxCell id="gjezv7H-cEq9Hpv20trl-1" parent="gjezv7H-cEq9Hpv20trl-0" />
@@ -120,7 +120,7 @@
         <mxCell id="gjezv7H-cEq9Hpv20trl-12" value="설계이슈 2&lt;div&gt;장애 복구 방안&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="gjezv7H-cEq9Hpv20trl-1" vertex="1">
           <mxGeometry x="468" y="320" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Wfta-kFtGSHRmQb4YzAM-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="gjezv7H-cEq9Hpv20trl-1" source="gjezv7H-cEq9Hpv20trl-13" target="Wfta-kFtGSHRmQb4YzAM-2">
+        <mxCell id="Wfta-kFtGSHRmQb4YzAM-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="gjezv7H-cEq9Hpv20trl-1" source="gjezv7H-cEq9Hpv20trl-13" target="Wfta-kFtGSHRmQb4YzAM-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gjezv7H-cEq9Hpv20trl-13" value="Active Redundancy&lt;div&gt;택틱 적용&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="gjezv7H-cEq9Hpv20trl-1" vertex="1">
@@ -129,19 +129,19 @@
         <mxCell id="gjezv7H-cEq9Hpv20trl-15" value="Passive Redundancy&lt;div&gt;택틱 적용&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="gjezv7H-cEq9Hpv20trl-1" vertex="1">
           <mxGeometry x="574" y="424" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Wfta-kFtGSHRmQb4YzAM-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="gjezv7H-cEq9Hpv20trl-1" source="Wfta-kFtGSHRmQb4YzAM-2" target="Wfta-kFtGSHRmQb4YzAM-3">
+        <mxCell id="Wfta-kFtGSHRmQb4YzAM-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="gjezv7H-cEq9Hpv20trl-1" source="Wfta-kFtGSHRmQb4YzAM-2" target="Wfta-kFtGSHRmQb4YzAM-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Wfta-kFtGSHRmQb4YzAM-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="gjezv7H-cEq9Hpv20trl-1" source="Wfta-kFtGSHRmQb4YzAM-2" target="Wfta-kFtGSHRmQb4YzAM-4">
+        <mxCell id="Wfta-kFtGSHRmQb4YzAM-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="gjezv7H-cEq9Hpv20trl-1" source="Wfta-kFtGSHRmQb4YzAM-2" target="Wfta-kFtGSHRmQb4YzAM-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Wfta-kFtGSHRmQb4YzAM-2" value="설계이슈 3&lt;div&gt;다중화 비용 축소 방안&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gjezv7H-cEq9Hpv20trl-1">
+        <mxCell id="Wfta-kFtGSHRmQb4YzAM-2" value="설계이슈 3&lt;div&gt;다중화 비용 축소 방안&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="gjezv7H-cEq9Hpv20trl-1" vertex="1">
           <mxGeometry x="394" y="530" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Wfta-kFtGSHRmQb4YzAM-3" value="모놀리식 아키텍처&lt;div&gt;적용&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="gjezv7H-cEq9Hpv20trl-1">
+        <mxCell id="Wfta-kFtGSHRmQb4YzAM-3" value="모놀리식 아키텍처&lt;div&gt;적용&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="gjezv7H-cEq9Hpv20trl-1" vertex="1">
           <mxGeometry x="340" y="634" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Wfta-kFtGSHRmQb4YzAM-4" value="마이크로 서비스&lt;div&gt;아키텍처 적용&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="gjezv7H-cEq9Hpv20trl-1">
+        <mxCell id="Wfta-kFtGSHRmQb4YzAM-4" value="마이크로 서비스&lt;div&gt;아키텍처 적용&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="gjezv7H-cEq9Hpv20trl-1" vertex="1">
           <mxGeometry x="500" y="634" width="120" height="60" as="geometry" />
         </mxCell>
       </root>

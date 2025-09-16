@@ -1,0 +1,42 @@
+@startuml
+
+skinparam actorStyle awesome
+actor "사용자" as user
+
+package "스마트홈 전기관리 시스템" {
+  package "클라우드 플랫폼" {
+    boundary ":UserInterface" as UI
+    control ":DeviceControlController" as CloudDCC
+    entity ":UserProfile" as UP
+  }
+
+  package "홈 게이트웨이" {
+    control ":GatewayController" as GatewayCtrl
+    "application logic" ":ProtocolAdapter" as PA
+    "application logic" ":CommandExecutor" as CE
+    boundary ":DeviceInterface" as DI
+    entity ":DeviceStatus" as DS
+  }
+}
+
+user -> UI: 1: requestDeviceControl(deviceID, command)
+UI -> CloudDCC: 1.1: processControl(userID, deviceID, command)
+CloudDCC -> UP: 1.2: authResult := checkAuthority(userID, deviceID)
+
+'alt [authResult is true]
+  CloudDCC -> GatewayCtrl: 1.3: newStatus := sendRemoteCommand(deviceID, command)
+  GatewayCtrl -> PA: 1.3.1: protocolCmd := convertToProtocol(command)
+  GatewayCtrl -> CE: 1.3.2: result := execute(protocolCmd)
+  CE -> DI: 1.3.2.1: controlDevice(protocolCmd)
+  DI --> CE: result
+  CE --> GatewayCtrl: result
+  GatewayCtrl -> DS: 1.3.3: syncStatus(deviceID, newStatus)
+  DS --> GatewayCtrl: newStatus
+  GatewayCtrl --> CloudDCC: newStatus
+  CloudDCC -> UI: 1.4: forwardResult(newStatus)
+  UI -> user: 1.5: updateView()
+'else [authResult is false]
+  CloudDCC -> UI: 1.3A: notifyAuthFailure()
+  UI -> user: 1.3A.1: displayError()
+'end
+@enduml

@@ -1,0 +1,24 @@
+@startuml
+skinparam handwritten true
+skinparam actorStyle awesome
+actor "사용자" as user
+
+rectangle "UC-02 AI 기반 요금예측 및 최적화 제안" {
+  boundary ":UserInterface" as UI
+  control ":PredictionController" as PredControl
+  control ":DataManager" as DM
+  "application logic" ":PredictionModel" as PM
+  "application logic" ":OptimizationEngine" as OE
+  boundary ":PowerCompanyInterface" as PCI
+
+  user -> UI: 1: requestPrediction()
+  UI -> PredControl: 1.1: processPrediction(userID)
+  PredControl -> DM: 1.1.1: usageHistory := getUsageHistory(userID)
+  PredControl -> DM: 1.1.2: userProfile := getUserProfile(userID)
+  PredControl -> PCI: 1.1.3: pricingPlan := getLatestPricingPlan()
+  PredControl -> PM: 1.1.4: predictedFare := calculateFare(usageHistory, pricingPlan)
+  PredControl -> OE: 1.1.5: optimizationSuggestion := suggestOptimization(usageHistory, userProfile)
+  PredControl -> UI: 1.1.6: forwardResults(predictedFare, optimizationSuggestion)
+  UI -> user: 1.1.7: displayResults()
+}
+@enduml
